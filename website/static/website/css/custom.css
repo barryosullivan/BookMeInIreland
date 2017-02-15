@@ -1,0 +1,9 @@
+.navbar-default.affix .navbar-header .navbar-brand{
+	color: #00cc00;
+}
+.navbar-default.affix .nav > li > a{
+	color: rgb(240, 95, 64);
+}
+#homeHeading{
+	color: rgb(240, 95, 90);
+}
